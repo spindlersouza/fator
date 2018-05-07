@@ -1,0 +1,17 @@
+{
+    "name": "Teste Fator Digital",
+    "authors": [{
+            "name": "Eduardo Souza",
+            "email": "spindlersouza@gmail.com",
+            "role": "Developer"
+        }],
+    "require": {
+        "cakephp/cakephp": "3.6.*",
+        "components/jquery": "3.3.*",
+        "twbs/bootstrap": "3.3.*"
+    },
+    "config": {
+        "vendor-dir": "vendor/"
+    }
+}
+
